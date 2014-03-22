@@ -17,3 +17,8 @@ Parameters:
 
 You should see triangle patterns in the generated output. The base pattern is
 generated randomly.
+
+## Copyright
+
+This program is licensed under WTFPL. For further informations, read the
+COPYING file.
