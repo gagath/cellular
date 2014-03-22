@@ -8,7 +8,7 @@ This cellular automaton is based on [Rule
 30](https://en.wikipedia.org/wiki/Rule_30). You can generate a specified number
 of lines with the width you want.
 
-    usage: cellular <witdh> <lines>
+    usage: cellular <width> <lines>
 
 Parameters:
 
